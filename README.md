@@ -17,6 +17,5 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madvith-d)](https://github.com/madvith-d/github-readme-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/madvith-d/langs)](https://githubtrends.io)
