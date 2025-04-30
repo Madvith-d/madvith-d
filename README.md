@@ -18,3 +18,5 @@
 [![visitors](https://visitcount.itsvg.in/api?id=Madvith-d&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madvith-d)](https://github.com/madvith-d/github-readme-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
