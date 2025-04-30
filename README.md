@@ -19,3 +19,4 @@
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/madvith-d/langs)](https://githubtrends.io)
+[![GitHub Streak](https://streak-stats.demolab.com?user=madvith-d&theme=dracula&hide_border=true)](https://git.io/streak-stats)
