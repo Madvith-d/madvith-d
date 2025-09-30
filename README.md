@@ -17,5 +17,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madvith-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 📈 Contribution Graph  
+
+<div align="center">
+
+![Nithin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madvith-d&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
