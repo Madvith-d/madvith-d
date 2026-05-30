@@ -11,9 +11,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madvith-d&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madvith-d&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madvith-d&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  
+  <img
+    height="180px"
+    src="https://streak-stats.demolab.com/?user=madvith-d&theme=tokyonight&hide_border=true"
+  />
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madvith-d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
