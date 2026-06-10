@@ -4,6 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madvith-d&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <!--START_SECTION:waka-->
+<div align="center">
+
+  
+  <img
+    height="180px"
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=39555&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"
+  />
+
+</div>
 <!--END_SECTION:waka-->
 
 # 💻 Tech Stack:
