@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Nithin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madvith-d&theme=tokyo-night&hide_border=true)
+![Madvith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madvith-d&theme=tokyo-night&hide_border=true)
 
 </div>
 
